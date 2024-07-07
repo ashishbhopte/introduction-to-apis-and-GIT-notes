@@ -6,7 +6,6 @@ In this unit we'll define what an API, or Application Programming Interface, is 
 
 ### Video 1 - Welcome
 
-👋 Hello and welcome to the course and your notes! Make sure you check this area out often!
 
 #### Beginner content
 
